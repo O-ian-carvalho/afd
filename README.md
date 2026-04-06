@@ -52,10 +52,4 @@ Você precisa criar um arquivo `afd.json` com 5 partes principais:
   "q0": { "0": "q1", "1": "q0" }
   ```
 
-   Significa:
-
-  * de `q0` com `0` vai para `q1`
-  * de `q0` com `1` vai para `q0`
-
-
-Se quiser, posso montar um AFD específico pra você (tipo: aceitar números pares, strings com final “01”, etc.) 👍
+ 
