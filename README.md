@@ -20,7 +20,7 @@ Você precisa criar um arquivo `afd.json` com 5 partes principais:
 
 ---
 
-## 🧠 O que cada parte significa
+##  O que cada parte significa
 
 * **states** → todos os estados do autômato
 
@@ -56,7 +56,6 @@ Você precisa criar um arquivo `afd.json` com 5 partes principais:
 
   * de `q0` com `0` vai para `q1`
   * de `q0` com `1` vai para `q0`
-
 
 
 Se quiser, posso montar um AFD específico pra você (tipo: aceitar números pares, strings com final “01”, etc.) 👍
